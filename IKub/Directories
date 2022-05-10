@@ -1,0 +1,4 @@
+subprocess.run(home + "\\AppData\\Roaming\\.minecraft\\TLauncher.exe")
+subprocess.run("C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe")
+C:\Users\1\AppData\Roaming\.Salwyrr\launcher
+os.startfile(home + "\\Desktop\\Minecraft Launcher.lnk")
