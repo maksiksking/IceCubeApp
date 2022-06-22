@@ -4,7 +4,7 @@
 block_cipher = None
 
 
-a = Analysis(['IKubog.py'],
+a = Analysis(['ikubog.py'],
              pathex=[],
              binaries=[],
              datas=[],
@@ -26,7 +26,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,  
           [],
-          name='IKubog',
+          name='ikubog',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
