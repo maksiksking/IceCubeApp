@@ -2,6 +2,6 @@
 Simple program that opens up Minecraft, Discord and Aternos.org
 
 Works only on Windows!
-The premium launcher version may not work if your Minecraft launcher directory isn't default, for that dm me in Discord and I will make you a custom one.
 
 You are free to use this code as a template for your program.
+And despite Github telling that this is made in HTTPS and TeX it's made 100% in Python.
